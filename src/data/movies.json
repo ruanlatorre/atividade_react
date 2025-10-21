@@ -1,0 +1,112 @@
+[
+  {
+    "imdbID": "tt0111161",
+    "Title": "The Shawshank Redemption",
+    "Year": "1994",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+    "Plot": "Dois homens presos criam um vínculo ao longo de anos...",
+    "Director": "Frank Darabont",
+    "Actors": "Tim Robbins, Morgan Freeman",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0068646",
+    "Title": "The Godfather",
+    "Year": "1972",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
+    "Plot": "A história da família mafiosa Corleone...",
+    "Director": "Francis Ford Coppola",
+    "Actors": "Marlon Brando, Al Pacino",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0468569",
+    "Title": "The Dark Knight",
+    "Year": "2008",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/The_Dark_Knight_%282008_film%29.jpg/250px-The_Dark_Knight_%282008_film%29.jpg",
+    "Plot": "Quando a ameaça conhecida como Coringa emerge, Batman deve aceitar um dos maiores testes de sua capacidade de lutar contra a injustiça.",
+    "Director": "Christopher Nolan",
+    "Actors": "Christian Bale, Heath Ledger",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0110912",
+    "Title": "Pulp Fiction",
+    "Year": "1994",
+    "Poster": "https://upload.wikimedia.org/wikipedia/pt/8/82/Pulp_Fiction_cover.jpg",
+    "Plot": "As vidas de dois assassinos da máfia, um boxeador e a esposa de um gângster se entrelaçam em histórias de violência e redenção.",
+    "Director": "Quentin Tarantino",
+    "Actors": "John Travolta, Samuel L. Jackson",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0167260",
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Year": "2003",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/4/48/Lord_Rings_Return_King.jpg",
+    "Plot": "Gandalf e Aragorn lideram o Mundo dos Homens contra o exército de Sauron para desviar seu olhar de Frodo e Sam na Montanha da Perdição.",
+    "Director": "Peter Jackson",
+    "Actors": "Elijah Wood, Ian McKellen",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0109830",
+    "Title": "Forrest Gump",
+    "Year": "1994",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+    "Plot": "A história de um homem com baixo QI que testemunha e influencia eventos históricos importantes dos EUA.",
+    "Director": "Robert Zemeckis",
+    "Actors": "Tom Hanks, Robin Wright",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0137523",
+    "Title": "Fight Club",
+    "Year": "1999",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg",
+    "Plot": "Um trabalhador de escritório insone e um vendedor de sabão formam um clube de luta clandestino que evolui para algo muito maior.",
+    "Director": "David Fincher",
+    "Actors": "Brad Pitt, Edward Norton",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt1375666",
+    "Title": "Inception",
+    "Year": "2010",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+    "Plot": "Um ladrão que rouba segredos corporativos através do uso da tecnologia de compartilhamento de sonhos recebe a tarefa inversa de plantar uma ideia.",
+    "Director": "Christopher Nolan",
+    "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0133093",
+    "Title": "The Matrix",
+    "Year": "1999",git commit -m "first commit"
+    "Poster": "https://upload.wikgit remote add origin https://github.com/ruanlatorre/movie-catalog2.gitimedia.org/wikipedia/pt/c/c1/The_Matrix_Poster.jpg",
+    "Plot": "Um hacker descobre a verdade chocante sobre sua realidade e seu papel na guerra contra seus controladores.",
+    "Director": "Lana Wachowski, Lilly Wachowski",
+    "Actors": "Keanu Reeves, Laurence Fishburne",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0080684",
+    "Title": "Star Wars: Episode V - The Empire Strikes Back",
+    "Year": "1980",
+    "Poster": "https://upload.wikimedia.org/wikipedia/pt/5/5c/The_Empire_Strikes_Back.jpg",
+    "Plot": "Após a destruição da Estrela da Morte, as forças Imperiais continuam a perseguir os Rebeldes. Luke Skywalker começa seu treinamento Jedi com Yoda.",
+    "Director": "Irvin Kershner",
+    "Actors": "Mark Hamill, Harrison Ford",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0108052",
+    "Title": "Schindler's List",
+    "Year": "1993",
+    "Poster": "https:////upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg",
+    "Plot": "Na Polônia ocupada pelos nazistas, o industrial Oskar Schindler gradualmente se preocupa com sua força de trabalho judaica após testemunhar sua perseguição.",
+    "Director": "Steven Spielberg",
+    "Actors": "Liam Neeson, Ralph Fiennes",
+    "Type": "movie"
+  }
+]
